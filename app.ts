@@ -25,7 +25,7 @@ const router = new Router();
 
 router.get('/', (ctx) => {
   ctx.response.body = {
-    message: 'Welcome'
+    message: 'Welcome!'
   };
 });
 

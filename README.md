@@ -3,5 +3,6 @@
 ## start server
 
 ```
-denon start or deno run --allow-read --allow-net app.ts
+denon start
 ```
+
